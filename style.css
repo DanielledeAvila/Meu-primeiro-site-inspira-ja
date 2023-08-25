@@ -1,0 +1,87 @@
+
+
+body{
+background: rgb(28,15,242);
+background: radial-gradient(circle, rgba(28,15,242,1) 0%, rgba(114,114,179,1) 44%, rgba(0,212,255,1) 100%);
+color: rgb(248, 248, 250);
+text-decoration-style: double;
+}
+
+#imagemfundo{
+    background: url("imagens/fundo\ azul.jpg");
+    width: auto;
+    padding: 20px;
+    
+}
+
+p{
+    font-size: larger;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+#parprimeiro{
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    text-decoration:
+}
+
+.edudequalidade{
+    font-size: 50px;
+}
+
+#parsegundo{
+    font-size: 40px;
+}
+
+.tituloconteudorelacionado{
+    text-align: left;
+}
+
+.imagem{   
+    margin-left: 300px;
+    padding: 10%;
+}
+
+#educacaodequalidade {  
+align-items: center;
+}
+
+#listadeobjetivos{
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color:rgb(85, 97, 97);      
+}
+
+.atividadesemsp{
+    font-size:20px;
+    padding: 30px;
+}
+
+.conteudorelacionado1{
+    padding: 20px;
+}
+#tituloconteudorelacionado{
+    text-align: left;
+    
+}
+
+#video{
+    margin-left: 50px;
+
+}
+
+#footer{
+    background-color: rgb(124, 207, 240);
+    padding:20px;
+    text-align:left
+    
+    
+}
